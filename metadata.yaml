@@ -1,0 +1,26 @@
+_repo: I-misteri-del-processo-Monti-e-Tognetti_25605
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanvittore, Gaetano
+    gutenberg_agent_id: '31453'
+    url: http://www.gutenberg.org/2009/agents/31453
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25605'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vatican -- Fiction'
+- !lcsh 'Lawsuits -- Fiction'
+- !lcc 'PQ'
+title: I misteri del processo Monti e Tognetti
+url: http://www.gutenberg.org/ebooks/25605
